@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=KMenu Manager
+GenericName=第三方软件管理器
+Comment=扫描和管理第三方 Linux 软件的 KDE 菜单入口
+Exec=AppRun
+Icon=kmenu-manager
+Terminal=false
+Categories=System;Utility;
+StartupNotify=true
